@@ -1,0 +1,10 @@
+data_raw/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+~$*.xlsx
+~$*.docx
+~$*.pbix
