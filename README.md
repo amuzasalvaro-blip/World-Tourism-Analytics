@@ -2,6 +2,8 @@
 
 **An end-to-end data analytics project exploring international tourism growth, recovery patterns and the relationships between tourism and selected economic, social and cultural indicators.**
 
+![Power BI Dashboard - Executive Overview](images/dashboard-overview.png)
+
 ## Business Question
 
 Which countries are experiencing the strongest tourism growth, and which factors are associated with higher international tourist arrivals?
